@@ -19,4 +19,4 @@
 
 ## Реализация клиентской стороны/Implementation of the client-side
 
-![RestAPIConsumer2](https://user-images.githubusercontent.com/114854020/215162929-99324f7c-45e1-4761-aefd-4b778c48bc95.gif)
+![RestAPIConsumer](https://user-images.githubusercontent.com/114854020/215163996-faa775fc-e69d-479a-b2c3-5b7a5ad1e0d3.gif)
