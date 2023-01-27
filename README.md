@@ -19,4 +19,4 @@
 
 ## Реализация клиентской стороны/Implementation of the client-side
 
-![RestAPIConsumer – Main java 2023-01-27 22-49-49](https://user-images.githubusercontent.com/114854020/215161637-3dcf311a-a229-4d49-ab2a-0848605b1a33.gif)
+![RestAPIConsumer2](https://user-images.githubusercontent.com/114854020/215162929-99324f7c-45e1-4761-aefd-4b778c48bc95.gif)
