@@ -17,8 +17,6 @@
   3. Request all measurement records
   4. Request total number of rainy days
 
-
-**Реализация клиентской стороны/Implementation of the client-side**
 ## Реализация клиентской стороны/Implementation of the client-side
 
 ![RestAPIConsumer – Main java 2023-01-27 22-49-49](https://user-images.githubusercontent.com/114854020/215161637-3dcf311a-a229-4d49-ab2a-0848605b1a33.gif)
