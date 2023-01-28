@@ -18,8 +18,8 @@
   4. Request total number of rainy days
 
 ## Реализация клиентской стороны/Implementation of the client-side
-  Объекты классов Sensor и Measurement создаются в виде DTO этих классов и передаются в json формате.
+  Объекты классов Sensor и Measurement создаются в виде DTO-классов и передаются в json формате.
   
-  Objects of the Sensor and Measurement classes are created using the DTO of these classes and transmitted in json format.
+  Objects of the Sensor and Measurement classes are created as DTO-classes and transmitted in json format.
 
 ![RestAPIConsumer1](https://user-images.githubusercontent.com/114854020/215165179-0789a0ea-9677-4b17-8742-c9959d8dd2cd.gif)
